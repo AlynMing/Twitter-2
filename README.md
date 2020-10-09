@@ -17,12 +17,12 @@ The following **required** functionality is completed:
 The following **bonus** features are implemented:
 
 - [x] User can pull to refresh. (1pt) 
-      refresh works, I just didn't get any new tweets between the first load and time of refresh in gif
+      (refresh works, I just didn't get any new tweets between the first load and time of refresh in gif)
 - [x] User can load past tweets infinitely. (2pts)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/DZEafMYMPe' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://recordit.co/DZEafMYMPe' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
